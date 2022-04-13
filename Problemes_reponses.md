@@ -1,5 +1,5 @@
 # PyNaCl
-- Le premier probleme que j'ai eu, c'était avec la liaison `PyNaCl`. Mon code Python de mon bot Discord ne voulait pas s'exécuter et affichait comme erreur __PyNaCl was not Found__.
+- Le premier problème que j'ai eu, c'était avec la liaison `PyNaCl`. Mon code Python de mon bot Discord ne voulait pas s'exécuter et affichait comme erreur __PyNaCl was not Found__.
     * C'est grâce à mon camarade de classe `Gaëtan` que j'ai réussit à le résoudre, il m'avait dit d'installer PyNaCl depuis un terminal dans système avec la commande _pip3_.
 
 # -play
